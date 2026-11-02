@@ -1,0 +1,14 @@
+{
+    "version":  "2.1.0",
+    "versionCode":  2,
+    "apk":  "https://github.com/cececha-web/pocket-archive-wydania/releases/download/v2.1.0/PocketArchive-2.1.0.apk",
+    "size":  57328812,
+    "notes":  [
+                  "Nowa nazwa i wygląd: nagłówek Pocket Archive i menu boczne",
+                  "Dodawanie gotowych plików PDF (przycisk „+”)",
+                  "Blokada PIN-em i odciskiem palca",
+                  "Kopia zapasowa i przywracanie (Menu → Dane)",
+                  "Wysyłka do chmury w tle i znaczki chmury przy dokumentach",
+                  "Aktualizacje z internetu (Menu → wersja na dole)"
+              ]
+}
